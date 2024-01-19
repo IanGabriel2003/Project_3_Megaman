@@ -1,0 +1,46 @@
+.navbar,
+.backblue {
+    background-color: blue;
+}
+
+.backdarkblue {
+    background-color: rgb(0, 0, 139);
+}
+
+.bwhite {
+    background-color: blue;
+}
+
+.navbar h1,
+.navbar-brand:hover,
+.navbar li a {
+    color: aqua;
+}
+
+.fzilla {
+    font-family: 'Zilla Slab', serif;
+    color: aqua;
+}
+
+.colorblue {
+    background-color: #2f44ca;
+}
+
+p,
+.colorblue ul {
+    color: #fff
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.tc {
+    width: 200px;
+    height: 320px;
+}
