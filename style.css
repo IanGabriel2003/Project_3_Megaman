@@ -44,3 +44,9 @@ p,
     width: 200px;
     height: 320px;
 }
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
